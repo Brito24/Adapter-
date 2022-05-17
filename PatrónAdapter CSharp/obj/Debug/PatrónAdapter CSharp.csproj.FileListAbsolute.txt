@@ -1,0 +1,7 @@
+D:\Dropbox\UAI\TC-TD\TC\Compartido TC1\Ejemplos.GIT\Patrón adapter - C#\PatrónAdapter CSharp\PatrónAdapter CSharp\bin\Debug\PatrónAdapter CSharp.exe.config
+D:\Dropbox\UAI\TC-TD\TC\Compartido TC1\Ejemplos.GIT\Patrón adapter - C#\PatrónAdapter CSharp\PatrónAdapter CSharp\bin\Debug\PatrónAdapter CSharp.exe
+D:\Dropbox\UAI\TC-TD\TC\Compartido TC1\Ejemplos.GIT\Patrón adapter - C#\PatrónAdapter CSharp\PatrónAdapter CSharp\bin\Debug\PatrónAdapter CSharp.pdb
+D:\Dropbox\UAI\TC-TD\TC\Compartido TC1\Ejemplos.GIT\Patrón adapter - C#\PatrónAdapter CSharp\PatrónAdapter CSharp\obj\Debug\PatrónAdapter CSharp.csprojAssemblyReference.cache
+D:\Dropbox\UAI\TC-TD\TC\Compartido TC1\Ejemplos.GIT\Patrón adapter - C#\PatrónAdapter CSharp\PatrónAdapter CSharp\obj\Debug\PatrónAdapter CSharp.csproj.CoreCompileInputs.cache
+D:\Dropbox\UAI\TC-TD\TC\Compartido TC1\Ejemplos.GIT\Patrón adapter - C#\PatrónAdapter CSharp\PatrónAdapter CSharp\obj\Debug\PatrónAdapter CSharp.exe
+D:\Dropbox\UAI\TC-TD\TC\Compartido TC1\Ejemplos.GIT\Patrón adapter - C#\PatrónAdapter CSharp\PatrónAdapter CSharp\obj\Debug\PatrónAdapter CSharp.pdb
